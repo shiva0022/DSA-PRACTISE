@@ -5,7 +5,6 @@
 
 import java.util.*;
 
-
 public class EncodeDecode {
 
     public String encode(List<String> strs) {
@@ -33,4 +32,7 @@ public class EncodeDecode {
         }
         return decStr;
     }
+
 }
+
+
