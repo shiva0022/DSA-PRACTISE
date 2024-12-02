@@ -11,7 +11,7 @@ public class EncodeDecode {
         
         StringBuilder encStr = new StringBuilder();
         for (String str : strs) {
-            int len = str.length();
+            // int len = str.length();
             encStr.append(str + ":;");
         }
         return encStr.toString();
