@@ -1,5 +1,5 @@
 /*
- * https://www.geeksforgeeks.org/problems/merge-sort/0
+ * https://www.geeksforgeeks.org/problems/merge-sort
 */
 
 import java.util.*;
