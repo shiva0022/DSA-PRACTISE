@@ -1,3 +1,7 @@
+/* 
+ * https://www.geeksforgeeks.org/problems/quick-sort
+*/
+
 import java.util.*;
 
 class QuickSort {
