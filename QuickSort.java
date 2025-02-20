@@ -16,7 +16,7 @@ class QuickSort {
     static int partition(int arr[], int low, int high) {
         // your code here
         int pivot = arr[low];
-        int i = 0;
+        int i = low;
         int j = high;
         while (i < j) {
             while (i <= high && arr[i] <= pivot) i++;
